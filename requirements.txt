@@ -1,2 +1,10 @@
 streamlit
 streamlit-webrtc
+opencv-python
+numpy
+mediapipe
+openai
+python-dotenv
+requests
+asyncio
+pathlib
